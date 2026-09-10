@@ -1,0 +1,17 @@
+# virtual environment
+.venv/
+venv/
+env/
+
+# python
+__pycache__/
+*.py[cod]
+
+# jupyter
+.ipynb_checkpoints/
+
+# editor / os
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
